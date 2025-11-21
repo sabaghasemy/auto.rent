@@ -10,5 +10,11 @@
   },
   "devDependencies": {
     "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "animate.css": "^4.1.1",
+    "flowbite": "^4.0.1",
+    "tailwindcss": "^4.1.17"
   }
 }
