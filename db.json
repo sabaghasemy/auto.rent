@@ -1,0 +1,64 @@
+{
+  "cards": [
+    {
+      "id": "car1",
+      "name": "اجاره  بنز e350 سدان",
+      "model": "2016",
+      "dailyprice": "8.500.000",
+      "monthlyprice":"8.500.000",
+      "deposit":"80 میلیون تومان",
+      "image": "./src/car1 (2).jpg",
+      "description":20
+    },
+    {
+      "id": "car2",
+      "name": "اجاره تویوتا",
+      "model": "2016",
+      "dailyprice": "8.500.000",
+      "monthlyprice":"8.500.000",
+      "deposit":"80 میلیون تومان",
+      "image": "./src/car2.jpg",
+      "description":20
+    },
+    {
+      "id": "car3",
+      "name": "اجاره جنسیس کوپه",
+      "model": "2016",
+      "dailyprice": "8.500.000",
+      "monthlyprice":"8.500.000",
+      "deposit":"80 میلیون تومان",
+      "image": "./src/car3.jpg",
+      "description":20
+    },
+    {
+      "id": "car4",
+      "name": "اجاره بی ام و 528",
+      "model": "2016",
+      "dailyprice": "8.500.000",
+      "monthlyprice":"8.500.000",
+      "deposit":"80 میلیون تومان",
+      "image": "./src/car4.jpg",
+      "description":20
+    },
+    {
+      "id": "car5",
+      "name": "اجاره هیوندا توسان",
+      "model": "2016",
+      "dailyprice": "8.500.000",
+      "monthlyprice":"8.500.000",
+      "deposit":"80 میلیون تومان",
+      "image": "./src/car1 (2).jpg",
+      "description":20
+    },
+    {
+      "id": "car6",
+      "name": "بنز کروک",
+      "model": "2016",
+      "dailyprice": "8.500.000",
+      "monthlyprice":"8.500.000",
+      "deposit":"80 میلیون تومان",
+      "image": "./src/car3.jpg",
+      "description":20
+    }
+  ]
+}
